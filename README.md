@@ -6,5 +6,5 @@ Sokoban game made on rust. Here you can see my implementation. While i was doing
 
 ## Documentation
 
-[Documentation](https://sokoban.iolivia.me/c01-00-intro)
+[Documentation I was reading](https://sokoban.iolivia.me/c01-00-intro)
 
